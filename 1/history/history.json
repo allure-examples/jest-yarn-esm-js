@@ -1,0 +1,1 @@
+{"d100920396d268eb46bc193de71c58e9:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"269b5f81dc6764d2","reportUrl":"https://allure-examples.github.io/jest-yarn-esm-js/1//#testresult/269b5f81dc6764d2","status":"passed","time":{"start":1727716028438,"stop":1727716028444,"duration":6}}]}}
